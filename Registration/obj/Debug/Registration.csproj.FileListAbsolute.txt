@@ -1,0 +1,13 @@
+G:\ПрогКатаев\Registration\bin\Debug\Registration.exe.config
+G:\ПрогКатаев\Registration\bin\Debug\Registration.exe
+G:\ПрогКатаев\Registration\bin\Debug\Registration.pdb
+G:\ПрогКатаев\Registration\bin\Debug\HashPasswords.dll
+G:\ПрогКатаев\Registration\bin\Debug\HashPasswords.pdb
+G:\ПрогКатаев\Registration\obj\Debug\Registration.csproj.AssemblyReference.cache
+G:\ПрогКатаев\Registration\obj\Debug\Registration.csproj.CoreCompileInputs.cache
+G:\ПрогКатаев\Registration\obj\Debug\Registration.csproj.CopyComplete
+G:\ПрогКатаев\Registration\obj\Debug\Registration.exe
+G:\ПрогКатаев\Registration\obj\Debug\Registration.pdb
+G:\ПрогКатаев\Registration\bin\Debug\EntityFramework.dll
+G:\ПрогКатаев\Registration\bin\Debug\EntityFramework.xml
+G:\ПрогКатаев\Registration\bin\Debug\ru\EntityFramework.resources.dll
